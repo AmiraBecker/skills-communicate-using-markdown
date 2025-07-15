@@ -2,11 +2,17 @@
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-Hey AmiraBecker!
+Hey AmiraBecker! 👋
 
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
+**Hey back to you!** Thanks for the friendly greeting. I've prepared a special Markdown demonstration just for you! 
+
 Remember, it's self-paced so feel free to take a break! ☕️
+
+## 🎯 Quick Demo
+
+Want to see how "hey" can be expressed with style using Markdown? Check out the [hey-demo.md](hey-demo.md) file for a fun demonstration of Markdown communication features!
 
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/AmiraBecker/skills-communicate-using-markdown/issues/1)
 
